@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-49-add-structured-error-codes-to-the-api-error",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-49-add-structured-error-codes-to-the-api-error": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-49-add-structured-error-codes-to-the-api-error",
+    "origin"
+  ]
+}
